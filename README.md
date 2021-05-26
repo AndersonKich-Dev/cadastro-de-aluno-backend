@@ -1,6 +1,6 @@
 ```bash
     # Clone o  projeto
-    $ git clone https://github.com/AndersonKich-Dev/cadastro-de-aluno-backend
+    $ git clone https://github.com/AndersonKich-Dev/cadastro-de-aluno-backend.git
 ```
 
 ```bash
