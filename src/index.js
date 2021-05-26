@@ -14,5 +14,5 @@ app.use(express.static('src'))
 app.use(routes);
 
 app.listen(3333, ()=>{
-    console.log('Executando...')
+    console.log('Executando na porta 3333...')
 })
